@@ -2,8 +2,4 @@ sss
 abc
 ddd
 add files
-<<<<<<< HEAD
-creating a new branch is quick and simple
-=======
-creating a new branch is quick & simple
->>>>>>> master
+creating a new branch is quick AND simple
